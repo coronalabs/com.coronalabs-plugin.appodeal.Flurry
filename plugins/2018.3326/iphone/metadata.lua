@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDFlurryAdapter', },
-		frameworks = { 'FlurrySDK', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
